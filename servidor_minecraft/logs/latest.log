@@ -1,0 +1,100 @@
+[28Apr2025 01:19:11.445] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[28Apr2025 01:19:11.447] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[28Apr2025 01:19:11.449] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[28Apr2025 01:19:11.528] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/negros-2/servidor_minecraft/config/fml.toml is not correct. Correcting
+[28Apr2025 01:19:11.530] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[28Apr2025 01:19:11.532] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[28Apr2025 01:19:11.533] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[28Apr2025 01:19:11.534] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [detectNonForgeModsToml] was corrected from null to true
+[28Apr2025 01:19:11.535] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[28Apr2025 01:19:11.548] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[28Apr2025 01:19:11.663] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///workspaces/negros-2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar!/ Service=ModLauncher Env=SERVER
+[28Apr2025 01:19:11.879] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[28Apr2025 01:19:12.732] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[28Apr2025 01:19:13.035] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties]
+[28Apr2025 01:19:13.125] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/negros-2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties]
+[28Apr2025 01:19:17.927] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 49.1.4, for MC 1.20.4 with MCP 20231207.112700
+[28Apr2025 01:19:17.934] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v49.1.4 Initialized
+[28Apr2025 01:19:17.967] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[28Apr2025 01:19:18.692] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[28Apr2025 01:19:19.239] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 49.1.4 Target: 49.2.0
+[28Apr2025 01:19:20.043] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[28Apr2025 01:19:20.750] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
+[28Apr2025 01:19:21.585] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[28Apr2025 01:19:21.822] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1271 advancements
+[28Apr2025 01:19:22.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.4
+[28Apr2025 01:19:22.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[28Apr2025 01:19:22.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[28Apr2025 01:19:22.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[28Apr2025 01:19:22.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[28Apr2025 01:19:22.572] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[28Apr2025 01:19:22.614] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[28Apr2025 01:19:22.614] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[28Apr2025 01:19:22.615] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[28Apr2025 01:19:22.615] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[28Apr2025 01:19:22.640] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[28Apr2025 01:19:22.641] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[28Apr2025 01:19:22.642] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[28Apr2025 01:19:22.642] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[28Apr2025 01:19:22.643] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[28Apr2025 01:19:22.643] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[28Apr2025 01:19:22.643] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[28Apr2025 01:19:22.644] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[28Apr2025 01:19:22.644] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[28Apr2025 01:19:22.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[28Apr2025 01:19:28.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[28Apr2025 01:19:28.872] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Apr2025 01:19:28.875] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Apr2025 01:19:29.052] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Apr2025 01:19:29.573] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Apr2025 01:19:30.043] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Apr2025 01:19:30.571] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Apr2025 01:19:31.058] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[28Apr2025 01:19:31.542] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[28Apr2025 01:19:32.048] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[28Apr2025 01:19:32.552] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[28Apr2025 01:19:33.078] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[28Apr2025 01:19:33.549] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[28Apr2025 01:19:34.044] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[28Apr2025 01:19:34.575] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[28Apr2025 01:19:35.043] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[28Apr2025 01:19:35.542] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[28Apr2025 01:19:36.070] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[28Apr2025 01:19:36.550] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
+[28Apr2025 01:19:37.044] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
+[28Apr2025 01:19:37.571] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[28Apr2025 01:19:38.042] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
+[28Apr2025 01:19:38.544] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
+[28Apr2025 01:19:39.065] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[28Apr2025 01:19:39.542] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
+[28Apr2025 01:19:40.043] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
+[28Apr2025 01:19:40.573] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 36%
+[28Apr2025 01:19:41.042] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 40%
+[28Apr2025 01:19:41.545] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[28Apr2025 01:19:42.046] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
+[28Apr2025 01:19:42.543] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[28Apr2025 01:19:43.043] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 50%
+[28Apr2025 01:19:43.564] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[28Apr2025 01:19:44.042] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[28Apr2025 01:19:44.559] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[28Apr2025 01:19:45.043] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
+[28Apr2025 01:19:45.543] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
+[28Apr2025 01:19:46.051] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 66%
+[28Apr2025 01:19:46.552] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[28Apr2025 01:19:47.047] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 70%
+[28Apr2025 01:19:47.545] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
+[28Apr2025 01:19:48.043] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
+[28Apr2025 01:19:48.542] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
+[28Apr2025 01:19:49.044] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 81%
+[28Apr2025 01:19:49.544] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[28Apr2025 01:19:50.053] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
+[28Apr2025 01:19:50.543] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[28Apr2025 01:19:51.047] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 90%
+[28Apr2025 01:19:51.550] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
+[28Apr2025 01:19:52.045] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
+[28Apr2025 01:19:52.543] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 99%
+[28Apr2025 01:19:52.614] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 24573 ms
+[28Apr2025 01:19:52.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (29.985s)! For help, type "help"
+[28Apr2025 01:19:52.628] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[28Apr2025 01:19:52.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Apr2025 01:19:52.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: home/codespace/.python/current/bin/python3 /workspaces/negros-2/msx.py<--[HERE]
