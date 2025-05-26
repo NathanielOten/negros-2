@@ -1,0 +1,69 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2025-05-26 23:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-26 23:09:21 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-26 23:09:21 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-05-26 23:09:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "snowy_coniferous_forest": "2025-05-26 23:09:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-05-26 23:10:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "snowy_coniferous_forest": "2025-05-26 23:09:22 +0000"
+    },
+    "done": false
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-05-26 23:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-26 23:10:39 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-26 23:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_ocean": "2025-05-26 23:09:44 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
